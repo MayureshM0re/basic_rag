@@ -1,0 +1,26 @@
+# Python
+venv/
+*.pyc
+__pycache__/
+
+# Ollama
+Modelfile
+
+# Chroma DB
+chroma_db/
+
+# Environment variables
+.env
+
+# OpenCode config (if it has sensitive info)
+.opencode.json
+
+# Docker
+.dockerignore
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store

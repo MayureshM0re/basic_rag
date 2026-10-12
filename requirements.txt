@@ -1,0 +1,12 @@
+# Core RAG application dependencies
+fastapi==0.114.1
+uvicorn==0.30.6
+llama-index==0.14.25
+llama-index-core==0.14.25
+llama-index-llms-ollama==0.11.0
+llama-index-embeddings-ollama==0.10.0
+llama-index-vector-stores-chroma==0.6.0
+langgraph==1.2.14
+chromadb==1.5.9
+ollama==0.6.3
+pydantic==2.14.0
